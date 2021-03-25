@@ -6,4 +6,10 @@ For this project, I used SQL, MySQL database, mySQL library, Javascript, and Inq
 
 https://github.com/charlispilecki/HW_12_Employee_Tracker
 
+## Video
+
+https://drive.google.com/file/d/1ZXOiQpsmHg_Kdo3VE5joBrXSJLQ4J6Js/view
+
+
+
 
